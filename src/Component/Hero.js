@@ -31,7 +31,7 @@ export default function Hero() {
                 <div className='image-area'>
                     <div className='row  px-5 mx-3'>
                         <div className=' col-lg-12 hero_image'>
-                            <img src={heroimage}  alt="" srcset="" />
+                            <img src={heroimage} alt="" srcset="" />
                         </div>
                     </div>
                 </div>

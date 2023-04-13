@@ -32,14 +32,14 @@ export default function Footer() {
                 <div className='endfooter py-5'>
                     <div className='row px-5 mx-3'>
                         <div className='col-lg-6'>
-                                © 2077 Fake Company. All rights reserved
+                            © 2077 Fake Company. All rights reserved
                         </div>
                         <div className='col-lg-6'>
-                        <ul id="menu" className="float-md-right ">
+                            <ul id="menu" className="float-md-right ">
                                 <li><a href="">Term</a></li>
                                 <li><a href="">Privacy</a></li>
                                 <li><a href="">Cookies</a></li>
-                                </ul>
+                            </ul>
                         </div>
                     </div>
                 </div>
