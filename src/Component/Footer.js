@@ -8,7 +8,7 @@ export default function Footer() {
                 <div className='row px-5 mx-3'>
                     <div className='col-lg-8'>
                         <img src={logo} alt="" width="30" height="24" className="d-inline-block align-text-top mr-3" />
-                        <span>Hourglass</span>
+                        < span >Hourglass</span>
                     </div>
                     <div className='col-lg-4'>
                         <p>Stay uo to date</p>

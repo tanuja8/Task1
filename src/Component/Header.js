@@ -1,4 +1,5 @@
 import React from 'react'
+import { BiChevronDown } from 'react-icons/bi'
 import './Style.css'
 import logo from "./Image/logo.png"
 export default function Header() {
@@ -18,10 +19,10 @@ export default function Header() {
               <a className="nav-link" href="#">Home <span className="sr-only">(current)</span></a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">Product</a>
+              <a className="nav-link" href="#">Product <BiChevronDown></BiChevronDown></a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">Resources</a>
+              <a className="nav-link" href="#">Resources <BiChevronDown></BiChevronDown></a>
             </li>
 
           </ul>
